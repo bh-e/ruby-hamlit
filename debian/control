@@ -7,7 +7,8 @@ Build-Depends: debhelper (>= 9~),
                gem2deb,
                ruby-temple (>= 0.7.6),
                ruby-thor,
-               ruby-tilt
+               ruby-tilt,
+               ruby-haml
 Standards-Version: 3.9.8
 Vcs-Git: https://anonscm.debian.org/git/pkg-ruby-extras/ruby-hamlit.git
 Vcs-Browser: https://anonscm.debian.org/cgit/pkg-ruby-extras/ruby-hamlit.git
